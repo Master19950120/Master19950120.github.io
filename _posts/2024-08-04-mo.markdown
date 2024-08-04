@@ -1,0 +1,13 @@
+---
+layout: post
+title: "test"
+author: "Wincent"
+header-style:text
+catalog:true
+tags:
+  - Web
+  - JavaScript
+---
+
+测试测试测试测试测试测试测试
+<a name = "G7MHR"></a>
